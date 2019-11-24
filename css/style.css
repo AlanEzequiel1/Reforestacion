@@ -390,6 +390,7 @@ button:focus {
   background: #000;
   margin-bottom: 120px; }
 
+
   .banner_area .box_1620 {
     background: url(../img/about_us.jpg) no-repeat scroll center center;
     background-size: cover;
@@ -400,6 +401,22 @@ button:focus {
   }
   .banner_area .box_1621 {
     background: url(../img/contactus.jpg) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 360px;
+    border-radius: 12px;
+    position: relative;
+    bottom: -120px;
+  }
+  .banner_area .box_1622 {
+    background: url(../img/natureProject.jpg) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 360px;
+    border-radius: 12px;
+    position: relative;
+    bottom: -120px;
+  }
+  .banner_area .box_1623 {
+    background: url(../img/newsPortada.jpg) no-repeat scroll center center;
     background-size: cover;
     min-height: 360px;
     border-radius: 12px;
