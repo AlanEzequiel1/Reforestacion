@@ -389,13 +389,26 @@ button:focus {
   min-height: 350px;
   background: #000;
   margin-bottom: 120px; }
+
   .banner_area .box_1620 {
     background: url(../img/about_us.jpg) no-repeat scroll center center;
     background-size: cover;
     min-height: 360px;
     border-radius: 12px;
     position: relative;
-    bottom: -120px; }
+    bottom: -120px;
+  }
+  .banner_area .box_1621 {
+    background: url(../img/contactus.jpg) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 360px;
+    border-radius: 12px;
+    position: relative;
+    bottom: -120px;
+  }
+
+
+
   .banner_area .banner_inner {
     position: relative;
     overflow: hidden;
