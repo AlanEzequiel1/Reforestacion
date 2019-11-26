@@ -423,7 +423,9 @@ button:focus {
     position: relative;
     bottom: -120px;
   }
-
+  .proposal{
+    position: relative;
+  }
 
 
   .banner_area .banner_inner {
